@@ -1,6 +1,6 @@
 //program to print product of natural numbers with given range
 import java.util.Scanner;
-public class Productofnumwithingivenrange
+public class Productofnum
 {
 	public static void main(String[] args) {
 	    Scanner scan = new Scanner(System.in);
